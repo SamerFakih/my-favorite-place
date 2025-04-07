@@ -14,3 +14,9 @@ main p{
     font-size: 20px;
     text-align: center;
 }
+main img{
+    display: block;
+    justify-content: center;
+    margin: 20px auto;
+    max-width: 50%;
+}
